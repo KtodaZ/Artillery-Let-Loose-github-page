@@ -1,2 +1,2 @@
-# Artillery-Let-Loose-github-page
-A github page for artillery let loose app
+# Artillery Let Loose
+A simply intuitive artillery calculator for Hell Let Loose the video game
